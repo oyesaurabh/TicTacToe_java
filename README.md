@@ -1,6 +1,6 @@
 # TicTacToe_java
 
-reated TicTacToe using java GUI....
+created TicTacToe using java GUI....<br>
 unfortunately I lost the source code 
 
 ## Requirement : 
