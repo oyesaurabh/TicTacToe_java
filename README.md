@@ -7,6 +7,6 @@ unfortunately I lost the source code
 #### any JAVA version will work
 
 ## How to Run : 
-#### just download and play bruh
+#### just download it and play bruh
 
 
