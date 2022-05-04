@@ -1,8 +1,12 @@
 # TicTacToe_java
 
-## requirement : 
-any JAVA version 
+reated TicTacToe using java GUI....
+unfortunately I lost the source code 
+
+## Requirement : 
+#### any JAVA version will work
+
+## How to Run : 
+#### just download and play bruh
 
 
-Created TicTacToe using java GUI....
-unfortunately I lost the source code  
